@@ -1,0 +1,5 @@
+echo "The name of the program is $0"
+echo "The first parameter : $1"
+echo "The second parameter : $2"
+echo "The number of parameters are : $#"
+echo "The parameters are : $*"
