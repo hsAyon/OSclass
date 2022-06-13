@@ -1,8 +1,8 @@
 {
     "success": {
         "os": "linux",
-        "version_name": "1.2.8",
-        "version_code": "1.2.8",
+        "version_name": "3.2.8",
+        "version_code": "3.2.8",
         "build_type": "desktop",
         "store": "https://dl.commchat.com/releases/linux/latest/CommChat-1.2.9.snap",
         "is_store_link": false,
